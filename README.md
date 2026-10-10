@@ -168,7 +168,7 @@ No recruiter screenshots are included or claimed. `frontend/src/assets/hero.png`
 
 ## Author and submission context
 
-The supplied project materials identify this as Chandan Mondal's DroneTV AI Support & Lead Assistant assignment. This README does not claim authorship beyond actual contributions or claim that external submission tasks are complete. Explain only code and work you understand and performed. See the manual plan, walkthrough, interview notes, and database/API docs under `docs/`.
+The supplied project materials identify this as Chandan Mondal's DroneTV AI Support & Lead Assistant assignment. This README does not claim authorship beyond actual contributions or claim that external submission tasks are complete..
 =======
 # ai-support-lead-assistant
 >>>>>>> c33d3b9b855bcc9855a6187919b0aaa886c80954
